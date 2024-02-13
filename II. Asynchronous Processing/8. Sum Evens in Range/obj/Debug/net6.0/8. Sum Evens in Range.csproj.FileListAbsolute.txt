@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\II. Asynchronous Processing\8. Sum Evens in Range\bin\Debug\net6.0\8. Sum Evens in Range.exe
+C:\Users\User\source\repos\II. Asynchronous Processing\8. Sum Evens in Range\bin\Debug\net6.0\8. Sum Evens in Range.deps.json
+C:\Users\User\source\repos\II. Asynchronous Processing\8. Sum Evens in Range\bin\Debug\net6.0\8. Sum Evens in Range.runtimeconfig.json
+C:\Users\User\source\repos\II. Asynchronous Processing\8. Sum Evens in Range\bin\Debug\net6.0\8. Sum Evens in Range.dll
+C:\Users\User\source\repos\II. Asynchronous Processing\8. Sum Evens in Range\bin\Debug\net6.0\8. Sum Evens in Range.pdb
+C:\Users\User\source\repos\II. Asynchronous Processing\8. Sum Evens in Range\obj\Debug\net6.0\8. Sum Evens in Range.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\II. Asynchronous Processing\8. Sum Evens in Range\obj\Debug\net6.0\8. Sum Evens in Range.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\II. Asynchronous Processing\8. Sum Evens in Range\obj\Debug\net6.0\8. Sum Evens in Range.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\II. Asynchronous Processing\8. Sum Evens in Range\obj\Debug\net6.0\8. Sum Evens in Range.AssemblyInfo.cs
+C:\Users\User\source\repos\II. Asynchronous Processing\8. Sum Evens in Range\obj\Debug\net6.0\8. Sum Evens in Range.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\II. Asynchronous Processing\8. Sum Evens in Range\obj\Debug\net6.0\8. Sum Evens in Range.dll
+C:\Users\User\source\repos\II. Asynchronous Processing\8. Sum Evens in Range\obj\Debug\net6.0\refint\8. Sum Evens in Range.dll
+C:\Users\User\source\repos\II. Asynchronous Processing\8. Sum Evens in Range\obj\Debug\net6.0\8. Sum Evens in Range.pdb
+C:\Users\User\source\repos\II. Asynchronous Processing\8. Sum Evens in Range\obj\Debug\net6.0\8. Sum Evens in Range.genruntimeconfig.cache
+C:\Users\User\source\repos\II. Asynchronous Processing\8. Sum Evens in Range\obj\Debug\net6.0\ref\8. Sum Evens in Range.dll
